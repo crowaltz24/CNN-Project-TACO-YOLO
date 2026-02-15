@@ -4,4 +4,4 @@ train
 test
 valid
 
-runs
+runs/detect/runs
